@@ -636,7 +636,7 @@ Gostaria de ser atendido por um consultor especializado em imóveis de Unamar - 
                       </div>
                       <div>
                         <p className="font-semibold">Telefone</p>
-                        <p className="text-muted-foreground">(22) 3333-4444</p>
+                        <p className="text-muted-foreground">(21) 96570-1798</p>
                       </div>
                     </div>
                     <div className="flex items-center gap-3">
@@ -646,7 +646,7 @@ Gostaria de ser atendido por um consultor especializado em imóveis de Unamar - 
                       <div>
                         <p className="font-semibold">E-mail</p>
                         <p className="text-muted-foreground">
-                          contato@imoveisunamar.com.br
+                          rafaelgrotzimobiliaria@gmail.com
                         </p>
                       </div>
                     </div>
@@ -657,7 +657,7 @@ Gostaria de ser atendido por um consultor especializado em imóveis de Unamar - 
                       <div>
                         <p className="font-semibold">Endereço</p>
                         <p className="text-muted-foreground">
-                          Av. Paulista, 1000 - São Paulo, SP
+                          Av. Sideral, Loja 1 - Verão Vermelho 2, Unamar - Cabo Frio, RJ
                         </p>
                       </div>
                     </div>
